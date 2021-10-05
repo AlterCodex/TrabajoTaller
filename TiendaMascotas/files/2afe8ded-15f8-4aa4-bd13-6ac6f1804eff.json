@@ -1,0 +1,1 @@
+{"py/object": "TiendaMascotas.dominio.perro.Perro", "nombre": "Garozo", "raza": "Mestizos", "tamanio": "grande", "precio": 35000, "edad": 3, "color": "manchado con blanco y negro", "tipoPelo": "rizado", "id": {"py/object": "uuid.UUID", "hex": "2afe8ded15f84aa4bd136ac6f1804eff"}}
